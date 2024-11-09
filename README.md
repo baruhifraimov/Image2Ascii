@@ -1,5 +1,3 @@
-Here's a basic README template for your Image2Ascii project:
-
 ---
 
 # Image2Ascii
